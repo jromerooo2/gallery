@@ -4,10 +4,18 @@
     font-family: 'StreetFont';
     src: url(street.otf) format('opentype');
 }
+@font-face {
+    font-family: 'Jacatra';
+    src: url(jacatra.otf) format('opentype');
+}
 
 h1{
     font-family: 'Covered By Your Grace', cursive;
 }
+.jacatra{
+    font-family: 'Jacatra', cursive;
+}
+
 
 .street{
     font-family: 'StreetFont', cursive;
