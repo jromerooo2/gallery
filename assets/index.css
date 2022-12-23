@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+@font-face {
+    font-family: 'StreetFont';
+    src: url(street.otf) format('opentype');
+}
+
+h1{
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+.street{
+    font-family: 'StreetFont', cursive;
+}
